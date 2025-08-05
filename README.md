@@ -6,13 +6,13 @@ This is a sleek and responsive **To-Do List App** built using **HTML, CSS, and V
 
 ### 🔗 Live Preview
 
-👉 [Click here to view the live app](https://aarjav-jain151.github.io/todo-app-T2/)
+👉 [Click here to view the live app](https://aarjav-jain151.github.io/todo-appT2/)
 
 ---
 
 ### 📸 Screenshot
 
-![To-Do List Preview](./images/todo-preview.png)
+![To-Do List Preview](./images/todo-app-preview.png)
 
 ---
 
